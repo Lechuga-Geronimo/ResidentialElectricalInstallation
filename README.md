@@ -6,6 +6,8 @@ Prepare the calculation report, the electrical plan, one-line diagram and load b
 
 ## Plot Drawing. 
 
+![471823_481934241823509_36621305_o](https://github.com/Lechuga-Geronimo/Calculation-Design-and-Projection-of-a-Residential-Electrical-Installation/assets/142461885/ca25d48f-841f-4f98-8285-588bb82e2768)
+
 ![737319_581321885218077_464331673_o](https://github.com/Lechuga-Geronimo/Calculation-Design-and-Projection-of-a-Residential-Electrical-Installation/assets/142461885/dd94d279-e0ac-4b22-a007-639e0ded4730)
 
 ![483920_584759888207610_29548367_n](https://github.com/Lechuga-Geronimo/Calculation-Design-and-Projection-of-a-Residential-Electrical-Installation/assets/142461885/32bb4826-47b6-42d3-847e-5df934ca5617)
