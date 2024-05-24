@@ -1,6 +1,6 @@
 # Calculation-Design-and-Projection-of-a-Residential-Electrical-Installation
 
-## Objetivo.
+## Objective.
 
 Prepare the calculation report, the electrical plan, one-line diagram and load balancing for the electrical network in a residence of 417 square meters based on NOM-SEDE-001-STPS.
 
