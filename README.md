@@ -1,1 +1,1 @@
-# Calculation-Design-and-Projection-of-a-417-square-meter-Residential-Electrical-Installation
+# Calculation-Design-and-Projection-of-a-Residential-Electrical-Installation
