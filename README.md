@@ -4,7 +4,7 @@
 
 ## Objective.
 
-Prepare the calculation report, the electrical plan, one-line diagram and load balancing for the electrical network in a residence of 417 square meters based on NOM-SEDE-001-STPS.
+Prepare the calculation report, the electrical plan, one-line diagram and load balancing for the electrical network in a residence of 417 square meters based on NOM-001-SEDE-2012.
 
 ## Plot Drawing. 
 
